@@ -132,8 +132,9 @@ Feel free to contribute to this repo by:
 - Adding Examples
 - Resolving open issues
 
-Thanks to [Juan Carlos](https://github.com/juanpago) for the amazing Angular example
+Thanks to [Juan Carlos](https://github.com/juanpago) for the amazing Angular example.
 
+Also, thanks to [SergeyMNet](https://github.com/SergeyMNet/chat-app) for great example of using lib.
 
 ## License
 
